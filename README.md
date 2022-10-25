@@ -1,4 +1,4 @@
-# Document-Classification-with-CNN
+# Document-Classification-with-CNN for 20 Newsgroups
 
 #### Objective
 Preprocess docs, train multiple ConvNets to classify docs with achieve upto 70% accuracy etc.
@@ -67,4 +67,4 @@ Pradip Dharam
   * train_fbeta_score: 0.219, test_fbeta_score: 0.111
 
 
-#### Disclaimer: This problem statement is been solved purely for purpose of learning and not to earn money. Dataset obtained from public domain.
+#### Disclaimer: This problem statement is been solved purely for purpose of learning and not to earn money. Dataset obtained from public domain. I am no way associated with 20 Newsgroups
